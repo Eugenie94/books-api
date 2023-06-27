@@ -1,0 +1,43 @@
+[
+      {
+            "id": 4,
+            "titre": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+            "auteur": "J.R.R. Tolkien",
+            "prix": "14,90 €",
+            "description": "Le premier tome de la trilogie épique qui se déroule dans le monde fantastique de la Terre du Milieu."
+      },
+      {
+            "id": 6,
+            "titre": "Le Nom de la rose",
+            "auteur": "Umberto Eco",
+            "prix": "11,50 €",
+            "description": "Un roman historique et philosophique qui se déroule dans une abbaye médiévale et mêle enquête policière, religion et symbolisme."
+      },
+      {
+            "id": 7,
+            "titre": "Moby Dick",
+            "auteur": "Herman Melville",
+            "prix": "13,99 €",
+            "description": "Un récit épique qui suit la traque obsessionnelle du capitaine Ahab à la recherche de la légendaire baleine blanche Moby Dick."
+      },
+      {
+            "id": 8,
+            "titre": "1984",
+            "auteur": "George Orwell",
+            "prix": "10,99 €",
+            "description": "Un roman dystopique classique qui explore les thèmes de la surveillance et de la manipulation gouvernementale."
+      },
+      {
+            "id": 9,
+            "titre": "Le Nom de la rose",
+            "auteur": "Umberto Eco",
+            "prix": "11,50 €",
+            "description": "Un roman historique et philosophique qui se déroule dans une abbaye médiévale et mêle enquête policière, religion et symbolisme."
+      },
+      {
+            "titre": "DAD",
+            "auteur": "DADA",
+            "prix": "DADA",
+            "description": "DAD"
+      }
+]
